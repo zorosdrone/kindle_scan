@@ -1,4 +1,4 @@
-# kindleCapture
+# kindle_scan
 
 Kindle Cloud Reader のページを自動でスクリーンショット撮影し、PDFに変換するためのツールセットです。
 
