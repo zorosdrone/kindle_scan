@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Project specific
+kindle_scans/
+files/
+*.pdf
+
+# IDEs
+.vscode/
+.idea/
